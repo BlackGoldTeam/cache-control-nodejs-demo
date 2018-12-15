@@ -1,0 +1,15 @@
+{
+  "name": "cache-control-nodejs-demo",
+  "version": "1.0.0",
+  "description": "cache-control demo for nodejs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "etag": "^1.8.1",
+    "fresh": "^0.5.2"
+  }
+}
